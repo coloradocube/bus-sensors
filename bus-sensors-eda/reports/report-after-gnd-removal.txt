@@ -1,0 +1,114 @@
+Info: Processing symbol 'C1:Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder'.
+Info: Processing symbol 'C2:Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder'.
+Info: Processing symbol 'C3:Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder'.
+Info: Processing symbol 'C4:Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder'.
+Info: Processing symbol 'C5:Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder'.
+Info: Processing symbol 'C6:Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder'.
+Info: Processing symbol 'C7:Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder'.
+Info: Processing symbol 'C8:Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder'.
+Info: Processing symbol 'C9:Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder'.
+Info: Processing symbol 'D1:LED_SMD:LED_2010_5025Metric_Pad1.52x2.65mm_HandSolder'.
+Info: Processing symbol 'D2:LED_SMD:LED_2010_5025Metric_Pad1.52x2.65mm_HandSolder'.
+Info: Processing symbol 'D3:LED_SMD:LED_2010_5025Metric_Pad1.52x2.65mm_HandSolder'.
+Info: Processing symbol 'D7:Diode_SMD:D_2512_6332Metric_Pad1.52x3.35mm_HandSolder'.
+Info: Processing symbol 'D8:LED_SMD:LED_2010_5025Metric_Pad1.52x2.65mm_HandSolder'.
+Info: Processing symbol 'D9:LED_SMD:LED_2010_5025Metric_Pad1.52x2.65mm_HandSolder'.
+Info: Processing symbol 'D10:LED_SMD:LED_2010_5025Metric_Pad1.52x2.65mm_HandSolder'.
+Info: Processing symbol 'D11:LED_SMD:LED_2010_5025Metric_Pad1.52x2.65mm_HandSolder'.
+Info: Processing symbol 'J1:Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical'.
+Info: Processing symbol 'U4:MS5805:MS580502BA01-50'.
+Info: Processing symbol 'U5:TEM_S:TMP75CIDGKT'.
+Info: Processing symbol 'J2:Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Horizontal'.
+Info: Processing symbol 'J3:Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical'.
+Info: Processing symbol 'J4:Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical'.
+Info: Processing symbol 'J5:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'J7:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'J8:Connector_JST:JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical'.
+Info: Processing symbol 'R1:Resistor_SMD:R_2010_5025Metric_Pad1.40x2.65mm_HandSolder'.
+Info: Processing symbol 'R2:Resistor_SMD:R_2010_5025Metric_Pad1.40x2.65mm_HandSolder'.
+Info: Processing symbol 'R3:Resistor_SMD:R_2010_5025Metric_Pad1.40x2.65mm_HandSolder'.
+Info: Processing symbol 'R4:Resistor_SMD:R_2010_5025Metric_Pad1.40x2.65mm_HandSolder'.
+Info: Processing symbol 'R5:Resistor_SMD:R_2010_5025Metric_Pad1.40x2.65mm_HandSolder'.
+Info: Processing symbol 'R6:Resistor_SMD:R_2010_5025Metric_Pad1.40x2.65mm_HandSolder'.
+Info: Processing symbol 'R7:Resistor_SMD:R_2010_5025Metric_Pad1.40x2.65mm_HandSolder'.
+Info: Processing symbol 'R8:Resistor_SMD:R_2010_5025Metric_Pad1.40x2.65mm_HandSolder'.
+Info: Processing symbol 'R12:Resistor_SMD:R_2010_5025Metric_Pad1.40x2.65mm_HandSolder'.
+Info: Processing symbol 'R13:Resistor_SMD:R_2010_5025Metric_Pad1.40x2.65mm_HandSolder'.
+Info: Processing symbol 'R14:Resistor_SMD:R_2010_5025Metric_Pad1.40x2.65mm_HandSolder'.
+Info: Processing symbol 'R15:Resistor_SMD:R_2010_5025Metric_Pad1.40x2.65mm_HandSolder'.
+Info: Processing symbol 'R16:Resistor_SMD:R_2010_5025Metric_Pad1.40x2.65mm_HandSolder'.
+Info: Processing symbol 'R17:Resistor_SMD:R_2010_5025Metric_Pad1.40x2.65mm_HandSolder'.
+Info: Processing symbol 'SW1:Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK'.
+Info: Processing symbol 'TP1:TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm'.
+Info: Processing symbol 'J6:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'TP2:TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm'.
+Info: Processing symbol 'TP3:TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm'.
+Info: Processing symbol 'TP4:TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm'.
+Info: Processing symbol 'TP5:TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm'.
+Info: Processing symbol 'TP7:TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm'.
+Info: Processing symbol 'TP8:TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm'.
+Info: Processing symbol 'TP10:TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm'.
+Info: Processing symbol 'TP11:TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm'.
+Info: Processing symbol 'U1:footprintsSP:PIC18F27Q84-E&slash_SP'.
+Info: Processing symbol 'U2:tem_sensor:SHT40-AD1B-R2'.
+Info: Processing symbol 'U3:CAN_footprint:ATA6560-GAQW-VAO'.
+Add net unconnected-(J1-Pad7).
+Reconnect J1 pin 7 from GND to unconnected-(J1-Pad7).
+Add net unconnected-(J1-Pad11).
+Reconnect J1 pin 11 from GND to unconnected-(J1-Pad11).
+Add net unconnected-(J1-Pad12).
+Reconnect J1 pin 12 from GND to unconnected-(J1-Pad12).
+Add net unconnected-(J1-Pad14).
+Reconnect J1 pin 14 from GND to unconnected-(J1-Pad14).
+Add net unconnected-(J1-Pad16).
+Reconnect J1 pin 16 from GND to unconnected-(J1-Pad16).
+Add net unconnected-(J1-Pad18).
+Reconnect J1 pin 18 from GND to unconnected-(J1-Pad18).
+Add net unconnected-(J1-Pad19).
+Reconnect J1 pin 19 from GND to unconnected-(J1-Pad19).
+Add net unconnected-(J1-Pad21).
+Reconnect J1 pin 21 from GND to unconnected-(J1-Pad21).
+Add net unconnected-(J1-Pad22).
+Reconnect J1 pin 22 from GND to unconnected-(J1-Pad22).
+Add net unconnected-(J1-Pad23).
+Reconnect J1 pin 23 from GND to unconnected-(J1-Pad23).
+Add net unconnected-(J1-Pad24).
+Reconnect J1 pin 24 from GND to unconnected-(J1-Pad24).
+Add net unconnected-(J1-Pad26).
+Reconnect J1 pin 26 from GND to unconnected-(J1-Pad26).
+Reconnect J1 pin 27 from GND to unconnected-(J1-Pad27).
+Add net unconnected-(J1-Pad28).
+Reconnect J1 pin 28 from GND to unconnected-(J1-Pad28).
+Add net unconnected-(J1-Pad29).
+Reconnect J1 pin 29 from GND to unconnected-(J1-Pad29).
+Add net unconnected-(J1-Pad31).
+Reconnect J1 pin 31 from GND to unconnected-(J1-Pad31).
+Add net unconnected-(J1-Pad32).
+Reconnect J1 pin 32 from GND to unconnected-(J1-Pad32).
+Add net unconnected-(J1-Pad33).
+Reconnect J1 pin 33 from GND to unconnected-(J1-Pad33).
+Add net unconnected-(J1-Pad35).
+Reconnect J1 pin 37 from GND to unconnected-(J1-Pad37).
+Reconnect J1 pin 35 from GND to unconnected-(J1-Pad35).
+Add net unconnected-(J1-Pad38).
+Reconnect J1 pin 38 from GND to unconnected-(J1-Pad38).
+Add net unconnected-(J1-Pad27).
+Add net unconnected-(J1-Pad40).
+Reconnect J1 pin 40 from GND to unconnected-(J1-Pad40).
+Add net unconnected-(J1-Pad36).
+Reconnect J1 pin 36 from GND to unconnected-(J1-Pad36).
+Add net unconnected-(J1-Pad37).
+Warning: No net found for symbol J8 pin MP.
+Warning: No net found for symbol TP8 pin 2.
+Warning: No net found for symbol TP4 pin 2.
+Warning: No net found for symbol TP10 pin 2.
+Warning: No net found for symbol TP3 pin 2.
+Warning: No net found for symbol TP11 pin 2.
+Warning: No net found for symbol TP2 pin 2.
+Warning: No net found for symbol J8 pin MP.
+Warning: No net found for symbol TP7 pin 2.
+Warning: No net found for symbol TP1 pin 2.
+Warning: No net found for symbol TP5 pin 2.
+
+
+Info: Total warnings: 0, errors: 0.
