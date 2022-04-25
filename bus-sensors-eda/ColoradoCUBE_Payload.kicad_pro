@@ -456,6 +456,10 @@
     [
       "138a72a7-c296-48de-800d-54576a7c07ad",
       "Pressure_Senesor"
+    ],
+    [
+      "372454aa-43e3-49bd-8d97-ba7fb0dde3b2",
+      "external  thermal sensor"
     ]
   ],
   "text_variables": {}
